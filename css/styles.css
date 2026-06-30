@@ -203,8 +203,8 @@ body {
     DIVIDER
 ==========================================*/
 
-.divider{
-    width: 80px;
+.divider{ /*linea de divición*/
+    width: 120px;
     height: 1px;
     background: var(--color-accent);
     margin: 0 auto 8rem;
@@ -255,6 +255,7 @@ body {
     text-transform: uppercase;
     letter-spacing: .2rem;
     font-size: .8rem;
+    margin-bottom:1.5rem;
 }
 
 .project-card h3{

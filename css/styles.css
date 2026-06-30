@@ -198,3 +198,85 @@ body {
     letter-spacing: .03rem;
 
 }
+
+/*=========================================
+    DIVIDER
+==========================================*/
+
+.divider{
+    width: 80px;
+    height: 1px;
+    background: var(--color-accent);
+    margin: 0 auto 8rem;
+    opacity: .55;
+}
+
+/*=========================================
+    COLLECTION
+==========================================*/
+
+.collection{
+    max-width: 1200px;
+    margin: 0 auto 12rem;
+    padding: 0 5%;
+}
+
+.section-label{
+    letter-spacing: .35rem;
+    text-transform: uppercase;
+    color: var(--color-accent);
+    font-size: .8rem;
+    margin-bottom: 1rem;
+}
+
+.collection h2{
+    font-family: var(--font-heading);
+    font-size: clamp(2.2rem, 4vw, 3.5rem);
+    font-weight: 500;
+    max-width: 700px;
+    line-height: 1.15;
+    margin-bottom: 5rem;
+}
+
+.project-card{
+    background: transparent;
+    border-top: 1px solid var(--color-border);
+    padding: 3rem 0;
+    transition: .35s;
+}
+
+.project-card:hover{
+    transform: translateY(-6px);
+    border-color: var(--color-accent);
+}
+
+.project-type{
+    color: var(--color-accent);
+    text-transform: uppercase;
+    letter-spacing: .2rem;
+    font-size: .8rem;
+}
+
+.project-card h3{
+    font-family: var(--font-heading);
+    font-size: 2.2rem;
+    margin: 1rem 0;
+}
+
+.project-card p{
+    color: var(--color-text-light);
+    line-height: 1.8;
+    margin-bottom: 2rem;
+    max-width: 520px;
+}
+
+.project-card a{
+    color: var(--color-text);
+    text-decoration: none;
+    transition: .35s;
+}
+
+.project-card a:hover{
+    color: var(--color-accent);
+    letter-spacing: .03rem;
+}

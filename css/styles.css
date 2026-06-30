@@ -61,10 +61,11 @@ body {
 /* ==========================================
    ESTRUCTURA GENERAL
 ========================================== */
-
 .header{
+    width: 100%;
     padding: 2rem 5%;
 }
+
 
 .nav{
 
@@ -137,7 +138,10 @@ body {
 ========================================== */
 
 .hero{
+    max-width: 900px;
     margin: 10rem auto;
+    text-align: center;
+    padding: 0 2rem;
 }
 
 .eyebrow{

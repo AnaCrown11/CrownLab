@@ -38,8 +38,8 @@
 /* ==========================================
    RESET
 ========================================== */
-
-* {
+* 
+{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -66,7 +66,7 @@ body {
 
     width: 100%;
 
-    padding: 2rem 5%;
+    padding: 2.8rem 5%;
 
 }
 
@@ -74,7 +74,7 @@ body {
 
     max-width: var(--container);
 
-    margin: auto;
+    margin: 12rem auto 10rem;
 
     display: flex;
 
@@ -104,7 +104,7 @@ body {
 
 .logo:hover{
 
-    color: var(--color-text);
+    color: var(--color-text); 
 
 }
 
@@ -198,11 +198,9 @@ body {
 
     color: var(--color-text);
 
-    border: 1px solid var(--color-border);
+    border-bottom: 1px solid var(--color-accent);
 
-    padding: 1rem 2rem;
-
-    border-radius: 999px;
+    padding-bottom: .35rem;
 
     transition: .35s;
 
@@ -210,8 +208,8 @@ body {
 
 .button:hover{
 
-    border-color: var(--color-accent);
-
     color: var(--color-accent);
+
+    letter-spacing: .03rem;
 
 }

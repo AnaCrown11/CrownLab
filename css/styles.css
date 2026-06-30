@@ -138,10 +138,7 @@ body {
 ========================================== */
 
 .hero{
-    max-width: 900px;
     margin: 10rem auto;
-    text-align: center;
-    padding: 0 2rem;
 }
 
 .eyebrow{

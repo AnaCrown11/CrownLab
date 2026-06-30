@@ -63,22 +63,15 @@ body {
 ========================================== */
 .header{
     width: 100%;
-    padding: 2rem 5%;
+    padding: 1rem 5%;
 }
 
-
 .nav{
-
     max-width: var(--container);
-
-    margin: 12rem auto 10rem;
-
+    margin: auto;
     display: flex;
-
     justify-content: space-between;
-
     align-items: center;
-
 }
 
 .logo{
@@ -138,7 +131,10 @@ body {
 ========================================== */
 
 .hero{
+    max-width: 900px;
     margin: 10rem auto;
+    text-align: center;
+    padding: 0 2rem;
 }
 
 .eyebrow{

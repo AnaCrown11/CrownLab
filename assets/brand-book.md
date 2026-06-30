@@ -143,3 +143,19 @@ Diseñar experiencias digitales con el mismo cuidado con el que un artesano crea
 Antes del código, siempre hay personas.
 
 Cada proyecto comienza con una conversación.
+
+
+
+## Emoción
+
+Cuando alguien visite CrownLab queremos que sienta una nostalgia tranquila.
+
+Como volver a un lugar donde todo está en calma.
+
+Como abrir un cuaderno bonito.
+
+Como entrar a una biblioteca.
+
+Como el sol de las cinco de la tarde.
+
+Como el sonido de un teclado mecánico mientras tomas café.

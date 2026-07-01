@@ -95,6 +95,7 @@ body {
 .logo:hover{
 
     color: var(--color-text); 
+    letter-spacing: .7rem; /*Cuando el mouse esté encima del logo...*/
 
 }
 

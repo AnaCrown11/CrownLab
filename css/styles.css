@@ -289,8 +289,10 @@ body {
 
 .about{
 
-    max-width: 760px;
-
+    /*max-width: 760px;
+*/
+    max-width: 680px;
+    
     margin: 0 auto 10rem;
 
     padding: 0 5%;
@@ -316,6 +318,9 @@ body {
     color:var(--color-text-light);
 
     margin-bottom:1.8rem;
+    
+    /*text-align: justify;
+    */
 
 }
 

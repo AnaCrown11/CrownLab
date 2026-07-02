@@ -282,3 +282,55 @@ body {
     color: var(--color-accent);
     letter-spacing: .03rem;
 }
+
+/*=========================================
+    ABOUT
+==========================================*/
+
+.about{
+
+    max-width: 760px;
+
+    margin: 0 auto 10rem;
+
+    padding: 0 5%;
+
+}
+
+.about h2{
+
+    font-family: var(--font-heading);
+
+    font-size: clamp(2.2rem,4vw,3.4rem);
+
+    font-weight:500;
+
+    margin-bottom:2rem;
+
+}
+
+.about p{
+
+    line-height:2;
+
+    color:var(--color-text-light);
+
+    margin-bottom:1.8rem;
+
+}
+
+.about blockquote{
+
+    margin-top:4rem;
+
+    font-family:var(--font-heading);
+
+    font-size:2rem;
+
+    line-height:1.4;
+
+    color:var(--color-accent);
+
+    font-style:normal;
+
+}
